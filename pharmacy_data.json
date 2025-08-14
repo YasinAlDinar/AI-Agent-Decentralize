@@ -1,0 +1,499 @@
+{
+  "pharmacies": [
+    {
+      "id": 1,
+      "name": "Apotek Kimia Farma Monas",
+      "address": "Jl. Medan Merdeka Barat No. 15, Gambir, Jakarta Pusat",
+      "phone": "+62-21-3441234",
+      "latitude": -6.1751,
+      "longitude": 106.8249,
+      "operating_hours": "08:00-22:00",
+      "medicines": [
+        {
+          "name": "Paracetamol 500mg",
+          "price": 5000,
+          "stock": 150,
+          "type": "tablet"
+        },
+        {
+          "name": "Amoxicillin 500mg",
+          "price": 25000,
+          "stock": 80,
+          "type": "capsule"
+        },
+        {
+          "name": "Ibuprofen 400mg",
+          "price": 12000,
+          "stock": 100,
+          "type": "tablet"
+        },
+        {
+          "name": "Omeprazole 20mg",
+          "price": 35000,
+          "stock": 60,
+          "type": "capsule"
+        },
+        {
+          "name": "Cetirizine 10mg",
+          "price": 15000,
+          "stock": 90,
+          "type": "tablet"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Apotek Guardian Plaza Indonesia",
+      "address": "Plaza Indonesia, Jl. M.H. Thamrin Kav. 28-30, Jakarta Pusat",
+      "phone": "+62-21-2992345",
+      "latitude": -6.1944,
+      "longitude": 106.8229,
+      "operating_hours": "10:00-22:00",
+      "medicines": [
+        {
+          "name": "Paracetamol 500mg",
+          "price": 6000,
+          "stock": 200,
+          "type": "tablet"
+        },
+        {
+          "name": "Aspirin 80mg",
+          "price": 8000,
+          "stock": 120,
+          "type": "tablet"
+        },
+        {
+          "name": "Loratadine 10mg",
+          "price": 18000,
+          "stock": 75,
+          "type": "tablet"
+        },
+        {
+          "name": "Simvastatin 20mg",
+          "price": 45000,
+          "stock": 40,
+          "type": "tablet"
+        },
+        {
+          "name": "Metformin 500mg",
+          "price": 20000,
+          "stock": 85,
+          "type": "tablet"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Apotek K24 Senayan City",
+      "address": "Senayan City Mall Lt. LG, Jl. Asia Afrika No. 8, Jakarta Selatan",
+      "phone": "+62-21-7279876",
+      "latitude": -6.2088,
+      "longitude": 106.8456,
+      "operating_hours": "24 jam",
+      "medicines": [
+        {
+          "name": "Paracetamol 500mg",
+          "price": 4500,
+          "stock": 300,
+          "type": "tablet"
+        },
+        {
+          "name": "Antangin JRG",
+          "price": 3500,
+          "stock": 150,
+          "type": "sachet"
+        },
+        {
+          "name": "Promag Tablet",
+          "price": 7500,
+          "stock": 100,
+          "type": "tablet"
+        },
+        {
+          "name": "Betadine 15ml",
+          "price": 12000,
+          "stock": 80,
+          "type": "solution"
+        },
+        {
+          "name": "Vitamin C 500mg",
+          "price": 25000,
+          "stock": 120,
+          "type": "tablet"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Apotek Century Kemang",
+      "address": "Kemang Village Mall, Jl. Kemang Raya No. 3, Jakarta Selatan",
+      "phone": "+62-21-7194567",
+      "latitude": -6.2615,
+      "longitude": 106.8106,
+      "operating_hours": "08:00-21:00",
+      "medicines": [
+        {
+          "name": "Ibuprofen 400mg",
+          "price": 15000,
+          "stock": 90,
+          "type": "tablet"
+        },
+        {
+          "name": "Amoxicillin 500mg",
+          "price": 28000,
+          "stock": 70,
+          "type": "capsule"
+        },
+        {
+          "name": "Dexamethasone 0.5mg",
+          "price": 5000,
+          "stock": 60,
+          "type": "tablet"
+        },
+        {
+          "name": "Ranitidine 150mg",
+          "price": 22000,
+          "stock": 50,
+          "type": "tablet"
+        },
+        {
+          "name": "Paracetamol Syrup 60ml",
+          "price": 18000,
+          "stock": 45,
+          "type": "syrup"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Apotek Melawai Farma",
+      "address": "Jl. Melawai VII No. 12, Kebayoran Baru, Jakarta Selatan",
+      "phone": "+62-21-7208901",
+      "latitude": -6.2421,
+      "longitude": 106.7997,
+      "operating_hours": "07:00-23:00",
+      "medicines": [
+        {
+          "name": "Paracetamol 500mg",
+          "price": 4000,
+          "stock": 250,
+          "type": "tablet"
+        },
+        {
+          "name": "Captopril 25mg",
+          "price": 15000,
+          "stock": 65,
+          "type": "tablet"
+        },
+        {
+          "name": "Amlodipine 10mg",
+          "price": 30000,
+          "stock": 55,
+          "type": "tablet"
+        },
+        {
+          "name": "Glimepiride 2mg",
+          "price": 35000,
+          "stock": 40,
+          "type": "tablet"
+        },
+        {
+          "name": "Lansoprazole 30mg",
+          "price": 40000,
+          "stock": 45,
+          "type": "capsule"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Apotek Viva Generik Sudirman",
+      "address": "Jl. Jend. Sudirman Kav. 45-46, Jakarta Selatan",
+      "phone": "+62-21-5785432",
+      "latitude": -6.2146,
+      "longitude": 106.8131,
+      "operating_hours": "08:00-20:00",
+      "medicines": [
+        {
+          "name": "Paracetamol 500mg",
+          "price": 3500,
+          "stock": 400,
+          "type": "tablet"
+        },
+        {
+          "name": "Ibuprofen 200mg",
+          "price": 8000,
+          "stock": 180,
+          "type": "tablet"
+        },
+        {
+          "name": "Cetirizine 10mg",
+          "price": 12000,
+          "stock": 110,
+          "type": "tablet"
+        },
+        {
+          "name": "Domperidone 10mg",
+          "price": 25000,
+          "stock": 70,
+          "type": "tablet"
+        },
+        {
+          "name": "Salbutamol Inhaler",
+          "price": 55000,
+          "stock": 25,
+          "type": "inhaler"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Apotek Roxy Mas",
+      "address": "Roxy Mas Mall Lt. 2, Jl. Kyai Tapa No. 1, Jakarta Barat",
+      "phone": "+62-21-6345678",
+      "latitude": -6.1833,
+      "longitude": 106.7914,
+      "operating_hours": "10:00-21:00",
+      "medicines": [
+        {
+          "name": "Antimo Tablet",
+          "price": 5500,
+          "stock": 95,
+          "type": "tablet"
+        },
+        {
+          "name": "Diapet Tablet",
+          "price": 8500,
+          "stock": 80,
+          "type": "tablet"
+        },
+        {
+          "name": "Paracetamol 500mg",
+          "price": 5500,
+          "stock": 160,
+          "type": "tablet"
+        },
+        {
+          "name": "CTM 4mg",
+          "price": 3000,
+          "stock": 200,
+          "type": "tablet"
+        },
+        {
+          "name": "Bisolvon 8mg",
+          "price": 30000,
+          "stock": 50,
+          "type": "tablet"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Apotek Kebon Jeruk Farma",
+      "address": "Jl. Perjuangan No. 88, Kebon Jeruk, Jakarta Barat",
+      "phone": "+62-21-5487901",
+      "latitude": -6.1689,
+      "longitude": 106.7678,
+      "operating_hours": "06:00-24:00",
+      "medicines": [
+        {
+          "name": "Paracetamol 500mg",
+          "price": 4200,
+          "stock": 280,
+          "type": "tablet"
+        },
+        {
+          "name": "Ambroxol 30mg",
+          "price": 18000,
+          "stock": 85,
+          "type": "tablet"
+        },
+        {
+          "name": "Loperamide 2mg",
+          "price": 15000,
+          "stock": 60,
+          "type": "capsule"
+        },
+        {
+          "name": "Ketoconazole 200mg",
+          "price": 35000,
+          "stock": 40,
+          "type": "tablet"
+        },
+        {
+          "name": "Fluconazole 150mg",
+          "price": 45000,
+          "stock": 30,
+          "type": "capsule"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Apotek Mangga Dua Square",
+      "address": "Mangga Dua Square Lt. 3, Jl. Mangga Dua Raya, Jakarta Utara",
+      "phone": "+62-21-6124567",
+      "latitude": -6.1389,
+      "longitude": 106.8333,
+      "operating_hours": "09:00-21:00",
+      "medicines": [
+        {
+          "name": "Paracetamol 500mg",
+          "price": 5800,
+          "stock": 140,
+          "type": "tablet"
+        },
+        {
+          "name": "Rifampicin 450mg",
+          "price": 85000,
+          "stock": 20,
+          "type": "capsule"
+        },
+        {
+          "name": "Ethambutol 400mg",
+          "price": 65000,
+          "stock": 25,
+          "type": "tablet"
+        },
+        {
+          "name": "Isoniazid 300mg",
+          "price": 45000,
+          "stock": 35,
+          "type": "tablet"
+        },
+        {
+          "name": "Piroxicam 20mg",
+          "price": 28000,
+          "stock": 50,
+          "type": "capsule"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Apotek Kelapa Gading",
+      "address": "Mall Kelapa Gading 1 Lt. 2, Jl. Boulevard Raya, Jakarta Utara",
+      "phone": "+62-21-4567890",
+      "latitude": -6.1581,
+      "longitude": 106.9106,
+      "operating_hours": "10:00-22:00",
+      "medicines": [
+        {
+          "name": "Paracetamol 500mg",
+          "price": 6200,
+          "stock": 180,
+          "type": "tablet"
+        },
+        {
+          "name": "Azithromycin 500mg",
+          "price": 65000,
+          "stock": 35,
+          "type": "tablet"
+        },
+        {
+          "name": "Cefadroxil 500mg",
+          "price": 45000,
+          "stock": 45,
+          "type": "capsule"
+        },
+        {
+          "name": "Chloramphenicol 250mg",
+          "price": 25000,
+          "stock": 60,
+          "type": "capsule"
+        },
+        {
+          "name": "Multivitamin",
+          "price": 35000,
+          "stock": 100,
+          "type": "tablet"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Apotek Cempaka Putih 24",
+      "address": "Jl. Cempaka Putih Tengah No. 25, Jakarta Pusat",
+      "phone": "+62-21-4251678",
+      "latitude": -6.1667,
+      "longitude": 106.8667,
+      "operating_hours": "24 jam",
+      "medicines": [
+        {
+          "name": "Paracetamol 500mg",
+          "price": 4800,
+          "stock": 220,
+          "type": "tablet"
+        },
+        {
+          "name": "Prednisolone 5mg",
+          "price": 15000,
+          "stock": 75,
+          "type": "tablet"
+        },
+        {
+          "name": "Salicyl Alcohol 2%",
+          "price": 8000,
+          "stock": 90,
+          "type": "solution"
+        },
+        {
+          "name": "Hydrocortisone 1%",
+          "price": 22000,
+          "stock": 55,
+          "type": "cream"
+        },
+        {
+          "name": "Miconazole 2%",
+          "price": 18000,
+          "stock": 65,
+          "type": "cream"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Apotek Pondok Indah Mall",
+      "address": "Pondok Indah Mall 1 Lt. 2, Jl. Metro Pondok Indah, Jakarta Selatan",
+      "phone": "+62-21-7506789",
+      "latitude": -6.2642,
+      "longitude": 106.7831,
+      "operating_hours": "10:00-22:00",
+      "medicines": [
+        {
+          "name": "Paracetamol 500mg",
+          "price": 7000,
+          "stock": 130,
+          "type": "tablet"
+        },
+        {
+          "name": "Insulin Glargine",
+          "price": 450000,
+          "stock": 15,
+          "type": "injection"
+        },
+        {
+          "name": "Metformin XR 750mg",
+          "price": 35000,
+          "stock": 40,
+          "type": "tablet"
+        },
+        {
+          "name": "Gliclazide 80mg",
+          "price": 28000,
+          "stock": 50,
+          "type": "tablet"
+        },
+        {
+          "name": "Atorvastatin 20mg",
+          "price": 55000,
+          "stock": 35,
+          "type": "tablet"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2025-08-14T10:00:00Z",
+  "version": "1.0",
+  "coverage_area": "Jakarta, Indonesia"
+}
